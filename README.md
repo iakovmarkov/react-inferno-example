@@ -1,0 +1,1 @@
+This code is an example referenced in a blog post on my website [iakov.me](https://iakov.me/blog/03_functional-react/).
